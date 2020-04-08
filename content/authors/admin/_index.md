@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate 
+role: PhD candidate in geophysics 
 
 # Organizations/Affiliations
 organizations:
@@ -18,23 +18,25 @@ organizations:
   url: "https://www.ipgp.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
+  Listening to Earth processes, linking crustal fluid circulation and microseismicity.
 
 interests:
-- Geophysics
+- Geological fluid dynamics
+- Earthquake source physics
 - Sonification
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Geophysics
+    institution: Institut de physique du globe de Paris (IPGP)
+    year: 2022 (ongoing)
+  - course: Scholarship in Geosciences
+    institution: Ecole normale supérieure, Paris
+    year: 2019
+  - course: MSc in Geophysics
+    institution: Institut de physique du globe de Paris (IPGP)
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,10 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Seismic signals recorded on surface of the Earth offer glimpses of geophysical
-processes that are often not directly accessible by other means of observation.
-They inform us on the time scale, energy release and geological conditions
-constraining the observed phenomenon. From icequakes to low-frequency
-earthquakes, from volcanic tremor to turbulent flow and sediment transport in
-rivers, I am interested in studying the physics of geological processes using
-the seismic signals they generate.
+#Welcome! This website is under construction, we'll be back shortly with some
+#content!
+
